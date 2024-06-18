@@ -24,8 +24,6 @@
   
   <ItemGroup>
     <Folder Include="Data\Configurations\" />
-    <Folder Include="Models\DTOs\" />
-    <Folder Include="Controllers\" />
   </ItemGroup>
   
 </Project>
